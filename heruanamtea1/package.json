@@ -1,7 +1,7 @@
 {
   "name": "heruanamtea1",
-  "version": "0.1.0",
-  "private": 1.1.4
+  "version": "1.1.4",
+  "private": 
   "scripts": {
     "dev": "next dev",
     "build": "next build",
